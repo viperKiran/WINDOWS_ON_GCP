@@ -5,4 +5,9 @@
 - Run windowd_password_generation.py to generate password to the instance
 
 ### TODO:
-- verify why startup.ps1 is not working
+- Verify why startup.ps1 is not working
+- Install counterstike
+- Install AOE
+- Install Hamachi LogmeIn
+- Install GameRanger
+- Bake the image and use this AMI for subsequent launch
